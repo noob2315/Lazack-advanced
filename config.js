@@ -1,15 +1,15 @@
 const chalk = require("chalk")
 const fs = require("fs")
 
-global.ownerNumber = ["255734980103@s.whatsapp.net"]
-global.nomerOwner = "255734980103"
-global.nomorOwner = ['255734980103']
+global.ownerNumber = ["14188083258@s.whatsapp.net"]
+global.nomerOwner = "14188083258"
+global.nomorOwner = ['1418083258']
 global.namaDeveloper = "Lazack Bugs" // Do not change this
 global.namaOwner = "Lazack Bugs"
 global.namaBot = "Lazack Bugs"
 global.versionBot = "15.5"
 global.packname = "Lazack Bugs"
-global.saluran = '120363321705798318@newsletter' // ID Saluran Kamu
+global.saluran = 'GMJ0lAyZ#jpog12CvbdGQ7u9cm9QIAeMBTEYTHwUZ1f6stOBVQjk'// ID Saluran Kamu
 global.author = "Lazack Bugs"
 global.saluranName = 'LAZACK BOTS' 
 global.thumb = fs.readFileSync("./assets/logo.png")
